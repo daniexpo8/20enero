@@ -11,7 +11,7 @@ public class GUI implements ActionListener {
 	private static JPasswordField passwordField;
 	private static JButton loginButton;
 	private static JLabel success;
-
+	//RATA
 	public static void main(String[] args) {
 		
 		JPanel panel=new JPanel();
