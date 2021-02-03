@@ -69,5 +69,9 @@ public class GUI implements ActionListener {
 		}
 		
 	}
+	public void action() {
+		
+	}
 
 }
+	
