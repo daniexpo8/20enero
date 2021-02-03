@@ -1,4 +1,6 @@
+package 
 import java.awt.event.ActionEvent;
+
 import java.awt.event.ActionListener;
 
 import javax.swing.*;
@@ -50,7 +52,7 @@ public class GUI implements ActionListener {
 		success.setBounds(10,110,300,25);
 		panel.add(success);
 		
-		frame.setVisible(true);
+		frame.setVisible(true);//Hola
 		
 		
 	}
